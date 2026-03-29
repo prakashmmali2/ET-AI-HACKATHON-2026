@@ -207,3 +207,5 @@ Voice and chat support with continuous learning.
 * Ensure pull requests include tests and documentation updates.
 * Follow ESLint and Prettier formatting rules.
 
+🔗 Live Demo
+👉 [ET Guide AI Prototype](https://et-guide-ai.lovable.app/)
